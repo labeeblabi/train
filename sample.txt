@@ -1,0 +1,3 @@
+name=labeeb
+age=23
+id=206551
